@@ -59,6 +59,26 @@
           "secondary": "#0075FF"
         }
       }
-    }
+    },
+    {
+        "id": 3,
+        "stream": {
+          "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
+          "health": "HEALTHY",
+          "playbackUrl": "https://60218abc640b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.984318568532.channel.g52Wte5aADlI.m3u8",
+          "startTime": "2020-08-11T12:05:13Z",
+          "state": "LIVE",
+          "viewerCount": 1
+        },
+        "metadata": {
+          "streamTitle": "Benjas!",
+          "userAvatar": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
+          "userName": "Benjas Channel",
+          "userColors": {
+            "primary": "#FFB660",
+            "secondary": "#0075FF"
+          }
+        }
+      }
   ]
 }
