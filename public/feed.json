@@ -65,15 +65,15 @@
         "stream": {
           "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
           "health": "HEALTHY",
-          "playbackUrl": "https://60218abc640b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.984318568532.channel.g52Wte5aADlI.m3u8",
+          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/out/v1/458a49bb24354cceae57fff3b36748f5/efc8fa26832846f6b20b1276415b306e/5a3b97579f2b440eaf3affe4151eaef9/index.m3u8",
           "startTime": "2020-08-11T12:05:13Z",
           "state": "LIVE",
           "viewerCount": 1
         },
         "metadata": {
-          "streamTitle": "Benjas!",
+          "streamTitle": "GS-test",
           "userAvatar": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
-          "userName": "Benjas Channel",
+          "userName": "GS Channel",
           "userColors": {
             "primary": "#FFB660",
             "secondary": "#0075FF"
