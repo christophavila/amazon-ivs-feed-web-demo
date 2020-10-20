@@ -16,10 +16,17 @@ const App = () => {
 
     fetchStreams();
   }, []);
-
+  
+  
   return (
     <div className="App">
-      <Feed streams={streams} />
+        <ReactHlsPlayer
+        <Feed streams={streams} />
+        autoplay={false}
+        controls={true}
+        width="100%"
+        height="auto"
+        />  
     </div>
   );
 };
