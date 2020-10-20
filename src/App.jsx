@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Feed from './components/feed';
+import Hls from 'hls.js';
 
 const feedJSON = `${process.env.PUBLIC_URL}/feed.json`;
 
@@ -16,17 +17,10 @@ const App = () => {
 
     fetchStreams();
   }, []);
-  
-  
+
   return (
     <div className="App">
-        <ReactHlsPlayer
-        <Feed streams={streams} />
-        autoplay={false}
-        controls={true}
-        width="100%"
-        height="auto"
-        />  
+      <Feed streams={streams} />
     </div>
   );
 };
