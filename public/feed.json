@@ -65,7 +65,7 @@
         "stream": {
           "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
           "health": "HEALTHY",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/out/v1/458a49bb24354cceae57fff3b36748f5/b1430749db0540b68bcac51443a74f6c/8d9ce170dbe74f018e54cfdd440b910c/index.mpd",
+          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/out/v1/458a49bb24354cceae57fff3b36748f5/efc8fa26832846f6b20b1276415b306e/5a3b97579f2b440eaf3affe4151eaef9/index.m3u8",
           "startTime": "2020-08-11T12:05:13Z",
           "state": "LIVE",
           "viewerCount": 1
