@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Feed from './components/feed';
-import Hls from 'hls.js';
 
 const feedJSON = `${process.env.PUBLIC_URL}/feed.json`;
 
