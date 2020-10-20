@@ -65,7 +65,7 @@
         "stream": {
           "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
           "health": "HEALTHY",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/out/v1/458a49bb24354cceae57fff3b36748f5/6b850f1fd99f45a0af3da54f2603f1ae/cda44537fd5b42c485fd6688a4bff09b/index.m3u8",
+          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/d73764ba-0daa-4857-a4b6-35476cb0993e/hls/aws-meet-connect-19102020.m3u8",
           "startTime": "2020-08-11T12:05:13Z",
           "state": "LIVE",
           "viewerCount": 1
