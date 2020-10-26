@@ -65,7 +65,8 @@
         "stream": {
           "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
           "health": "HEALTHY",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/d73764ba-0daa-4857-a4b6-35476cb0993e/hls/aws-meet-connect-19102020.m3u8",
+          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/744c680e-9249-4989-a3d5-b04cf8604786/mp4/aws-wellarch-costopt-23102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
+          // "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/d73764ba-0daa-4857-a4b6-35476cb0993e/hls/aws-meet-connect-19102020.m3u8",
           "startTime": "2020-08-11T12:05:13Z",
           "state": "LIVE",
           "viewerCount": 1
