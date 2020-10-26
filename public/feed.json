@@ -4,19 +4,15 @@
       "id": 0,
       "stream": {
         "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-        "health": "HEALTHY",
         "playbackUrl": "https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8",
-        "startTime": "2020-08-10T10:17:53Z",
-        "state": "LIVE",
-        "viewerCount": 1
       },
       "metadata": {
-        "streamTitle": "My cool live stream",
+        "streamTitle": "Amazon Connect",
         "userAvatar": "https://assets.codepen.io/2960061/hedgehog.png",
-        "userName": "Harry Hedgehog",
+        "userName": "Meeting held on October 19, 2020",
         "userColors": {
-          "primary": "#3E9963",
-          "secondary": "#FAFF00"
+          "primary": "#FF9900",
+          "secondary": "#000000"
         }
       }
     },
