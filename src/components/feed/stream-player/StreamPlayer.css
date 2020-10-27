@@ -48,5 +48,5 @@
 
 .player-ui-button {
   display: block;
-  user-select: none;
+  user-select: all;
 }
