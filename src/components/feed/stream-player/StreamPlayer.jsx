@@ -75,11 +75,11 @@ const StreamPlayer = (props) => {
 
           {!loading && (
             <div className="player-ui-actions">
-              <button className="player-ui-button" onClick={toggleMute}>
-                {muted ? <VolumeOff /> : <VolumeUp />}
-              </button>
-
-              <Like />
+         //      <button className="player-ui-button" onClick={toggleMute}>
+         //       {muted ? <VolumeOff /> : <VolumeUp />}
+         //     </button>
+         //
+         //     <Like />
             </div>
           )}
         </div>
