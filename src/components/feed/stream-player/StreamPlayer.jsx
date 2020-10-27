@@ -75,11 +75,6 @@ const StreamPlayer = (props) => {
 
          {!loading && (
            <div className="player-ui-actions">
-         //      <button className="player-ui-button" onClick={toggleMute}>
-         //       {muted ? <VolumeOff /> : <VolumeUp />}
-         //     </button>
-         //
-         //     <Like />
             </div>
          )}
         </div>
@@ -88,7 +83,7 @@ const StreamPlayer = (props) => {
           avatar={userAvatar}
           bgColor={primary}
           isActive={active}
-          playing={active && !loading}
+          playing={active}
           spinnerColor={secondary}
           userName={userName}
         />
