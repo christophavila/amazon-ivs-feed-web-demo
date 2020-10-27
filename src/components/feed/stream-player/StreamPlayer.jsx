@@ -71,7 +71,7 @@ const StreamPlayer = (props) => {
     <div className={`stream-wrapper${active ? ' stream-wrapper--active' : ''}`}>
       <div className="aspect-16x9" style={{ background: primary }}>
         <div className="player-ui">
-          <video className="player-video-el" ref={videoEl} playsInline muted />
+          <video className="player-video-el" ref={videoEl} playsInline muted controls="true" />
 
           {!loading && (
             <div className="player-ui-actions">
