@@ -82,7 +82,7 @@ const StreamPlayer = (props) => {
          //     <Like />
          //   </div>
          // )}
-        </div>
+        //</div>
 
         <Placeholder
           avatar={userAvatar}
