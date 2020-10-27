@@ -9,7 +9,7 @@ import { VolumeOff, VolumeUp } from '../../../assets/icons';
 import './StreamPlayer.css';
 
 const StreamPlayer = (props) => {
-  const { active, loading, player, streamData, setStream } = props;
+  const { active, loading, player, controls, streamData, setStream } = props;
   const { id, stream, metadata } = streamData;
 
   const [muted, setMuted] = useState(false);
@@ -22,7 +22,7 @@ const StreamPlayer = (props) => {
     if (!active || loading) return;
 
     setMuted(player.isMuted());
-  }, [active, loading, player]);
+  }, [active, loading, player, controls]);
 
   useEffect(() => {
     if (!active) return;
