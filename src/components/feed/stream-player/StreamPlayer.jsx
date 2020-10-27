@@ -72,11 +72,6 @@ const StreamPlayer = (props) => {
       <div className="aspect-16x9" style={{ background: primary }}>
         <div className="player-ui">
           <video className="player-video-el" ref={videoEl} playsInline muted controls="true" />
-
-         {!loading && (
-           <div className="player-ui-actions">
-            </div>
-         )}
         </div>
 
         <Placeholder
