@@ -1,83 +1,83 @@
 {
-  "streams": [
-    {
-      "id": 0,
-      "stream": {
-        "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-        "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/967fe674-6965-44da-b7c3-7a49d4446d49/mp4/aws-meet-waf-09102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-        "startTime": "2020-10-09T12:01:01Z",
-        "state": "LIVE",
-        "viewerCount": 1
-      },
-      "metadata": {
-        "streamTitle": "AWS WAF",
-        "userAvatar": "https://raw.githubusercontent.com/varunchandak/varunchandak/master/aws/Security-Identity-Compliance/AWS-WAF@4x.png",
-        "userName": "Meeting held on October 9, 2020",
-        "userColors": {
-          "primary": "#FF9900",
-          "secondary": "#000000"
-        }
-      }
-    },
-    {
-      "id": 1,
-      "stream": {
-        "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-        "health": "HEALTHY",
-        "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/d73764ba-0daa-4857-a4b6-35476cb0993e/mp4/aws-meet-connect-19102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-        "startTime": "2020-10-19T12:01:01Z",
-        "state": "LIVE",
-        "viewerCount": 1
-      },
-      "metadata": {
-        "streamTitle": "Amazon Connect",
-        "userAvatar": "https://www.gartner.com/pi/vendorimages/amazon-web-services_contact-center-as-a-service-north-america_1591726028403.png",
-        "userName": "Meeting held on October 19, 2020",
-        "userColors": {
-          "primary": "#FF9900",
-          "secondary": "#000000"
-        }
-      }
-    },
-    {
-      "id": 2,
-      "stream": {
-        "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-        "health": "HEALTHY",
-        "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/744c680e-9249-4989-a3d5-b04cf8604786/mp4/aws-wellarch-costopt-23102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-        "startTime": "2020-10-23T12:01:01Z",
-        "state": "LIVE",
-        "viewerCount": 1
-      },
-      "metadata": {
-        "streamTitle": "AWS Welll Architected Pillars - Cost Optimization",
-        "userAvatar": "https://d1.awsstatic.com/gamedev/Programs/OnRamp/gt-well-architected.4234ac16be6435d0ddd4ca693ea08106bc33de9f.png",
-        "userName": "Meeting held on October 23, 2020",
-        "userColors": {
-          "primary": "#FF9900",
-          "secondary": "#000000"
-        }
-      }
-    },
-    {
-        "id": 3,
+    "streams": [
+      {
+        "id": 0,
         "stream": {
           "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-          "health": "HEALTHY",
-          "playbackUrl": "",
-          "startTime": "2020-08-11T12:05:13Z",
+          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/967fe674-6965-44da-b7c3-7a49d4446d49/mp4/aws-meet-waf-09102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
+          "startTime": "2020-10-09T12:01:01Z",
           "state": "LIVE",
           "viewerCount": 1
         },
         "metadata": {
-          "streamTitle": "GS-test",
-          "userAvatar": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
-          "userName": "GS-Channel",
+          "streamTitle": "AWS WAF",
+          "userAvatar": "https://raw.githubusercontent.com/varunchandak/varunchandak/master/aws/Security-Identity-Compliance/AWS-WAF@4x.png",
+          "userName": "Meeting held on October 9, 2020",
           "userColors": {
             "primary": "#FF9900",
             "secondary": "#000000"
           }
         }
-      }
-  ]
-}
+      },
+      {
+        "id": 1,
+        "stream": {
+          "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
+          "health": "HEALTHY",
+          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/d73764ba-0daa-4857-a4b6-35476cb0993e/mp4/aws-meet-connect-19102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
+          "startTime": "2020-10-19T12:01:01Z",
+          "state": "LIVE",
+          "viewerCount": 1
+        },
+        "metadata": {
+          "streamTitle": "Amazon Connect",
+          "userAvatar": "https://www.gartner.com/pi/vendorimages/amazon-web-services_contact-center-as-a-service-north-america_1591726028403.png",
+          "userName": "Meeting held on October 19, 2020",
+          "userColors": {
+            "primary": "#FF9900",
+            "secondary": "#000000"
+          }
+        }
+      },
+      {
+        "id": 2,
+        "stream": {
+            "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
+            "health": "HEALTHY",
+            "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/077e170a-62ac-4d14-8edf-8cf68b9f65a3/mp4/aws-ws-containers-17102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
+            "startTime": "2020-10-17T12:01:01Z",
+            "state": "LIVE",
+            "viewerCount": 1
+        },
+        "metadata": {
+            "streamTitle": "AWS Containers",
+            "userAvatar": "https://about.gitlab.com/images/applications/apps/ecs.png",
+            "userName": "Immersion held on October 17, 2020",
+            "userColors": {
+            "primary": "#FF9900",
+            "secondary": "#000000"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "stream": {
+          "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
+          "health": "HEALTHY",
+          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/744c680e-9249-4989-a3d5-b04cf8604786/mp4/aws-wellarch-costopt-23102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
+          "startTime": "2020-10-23T12:01:01Z",
+          "state": "LIVE",
+          "viewerCount": 1
+        },
+        "metadata": {
+          "streamTitle": "AWS Welll Architected Pillars - Cost Optimization",
+          "userAvatar": "https://d1.awsstatic.com/gamedev/Programs/OnRamp/gt-well-architected.4234ac16be6435d0ddd4ca693ea08106bc33de9f.png",
+          "userName": "Meeting held on October 23, 2020",
+          "userColors": {
+            "primary": "#FF9900",
+            "secondary": "#000000"
+            }
+          }
+        }
+    ]
+  }
