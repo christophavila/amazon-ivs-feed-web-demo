@@ -73,15 +73,15 @@ const StreamPlayer = (props) => {
         <div className="player-ui">
           <video className="player-video-el" ref={videoEl} playsInline muted controls="true" />
 
-          {!loading && (
-            <div className="player-ui-actions">
+         // {!loading && (
+         //  <div className="player-ui-actions">
          //      <button className="player-ui-button" onClick={toggleMute}>
          //       {muted ? <VolumeOff /> : <VolumeUp />}
          //     </button>
          //
          //     <Like />
-            </div>
-          )}
+         //   </div>
+         // )}
         </div>
 
         <Placeholder
