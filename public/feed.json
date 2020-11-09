@@ -4,38 +4,39 @@
         "id": 0,
         "stream": {
           "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/967fe674-6965-44da-b7c3-7a49d4446d49/mp4/aws-meet-waf-09102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-          "startTime": "2020-10-09T12:01:01Z",
+          "health": "HEALTHY",
+          "playbackUrl": "https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8",
+          "startTime": "2020-08-10T10:17:53Z",
           "state": "LIVE",
           "viewerCount": 1
         },
         "metadata": {
-          "streamTitle": "AWS WAF",
-          "userAvatar": "https://raw.githubusercontent.com/varunchandak/varunchandak/master/aws/Security-Identity-Compliance/AWS-WAF@4x.png",
-          "userName": "Meeting held on October 9, 2020",
+          "streamTitle": "My cool live stream",
+          "userAvatar": "https://assets.codepen.io/2960061/hedgehog.png",
+          "userName": "Harry Hedgehog",
           "userColors": {
-            "primary": "#FF9900",
-            "secondary": "#000000"
+            "primary": "#3E9963",
+            "secondary": "#FAFF00"
           }
         }
       },
       {
         "id": 1,
         "stream": {
-            "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-            "health": "HEALTHY",
-            "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/077e170a-62ac-4d14-8edf-8cf68b9f65a3/mp4/aws-ws-containers-17102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-            "startTime": "2020-10-17T12:01:01Z",
-            "state": "LIVE",
-            "viewerCount": 1
+          "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
+          "health": "HEALTHY",
+          "playbackUrl": "https://usher.ttvnw.net/api/lvs/hls/lvs.lvs-client-example.9ee3f80d-c1e4-49a7-8dd4-288208f18509.m3u8",
+          "startTime": "2020-08-11T12:10:51Z",
+          "state": "LIVE",
+          "viewerCount": 1
         },
         "metadata": {
-            "streamTitle": "AWS Containers",
-            "userAvatar": "https://about.gitlab.com/images/applications/apps/ecs.png",
-            "userName": "Immersion held on October 17, 2020",
-            "userColors": {
-            "primary": "#FF9900",
-            "secondary": "#000000"
+          "streamTitle": "Welcome to my cool stream",
+          "userAvatar": "https://assets.codepen.io/2960061/giraffe.png",
+          "userName": "Gene Giraffe",
+          "userColors": {
+            "primary": "#545B60",
+            "secondary": "#FFFFFF"
           }
         }
       },
@@ -44,120 +45,20 @@
         "stream": {
           "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
           "health": "HEALTHY",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/d73764ba-0daa-4857-a4b6-35476cb0993e/mp4/aws-meet-connect-19102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-          "startTime": "2020-10-19T12:01:01Z",
+          "playbackUrl": "https://usher.ttvnw.net/api/lvs/hls/lvs.lvs-client-example.c6341be8-a3c7-42bc-b89a-8dabe040eae9.m3u8",
+          "startTime": "2020-08-11T12:05:13Z",
           "state": "LIVE",
           "viewerCount": 1
         },
         "metadata": {
-          "streamTitle": "Amazon Connect",
-          "userAvatar": "https://www.gartner.com/pi/vendorimages/amazon-web-services_contact-center-as-a-service-north-america_1591726028403.png",
-          "userName": "Meeting held on October 19, 2020",
+          "streamTitle": "What a hoot!",
+          "userAvatar": "https://assets.codepen.io/2960061/bird2.png",
+          "userName": "Owen Owl",
           "userColors": {
-            "primary": "#FF9900",
-            "secondary": "#000000"
+            "primary": "#FFB660",
+            "secondary": "#0075FF"
           }
         }
-      },
-      {
-        "id": 3,
-        "stream": {
-          "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-          "health": "HEALTHY",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/744c680e-9249-4989-a3d5-b04cf8604786/mp4/aws-wellarch-costopt-23102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-          "startTime": "2020-10-23T12:01:01Z",
-          "state": "LIVE",
-          "viewerCount": 1
-        },
-        "metadata": {
-          "streamTitle": "AWS Welll Architected Pillars - Cost Optimization",
-          "userAvatar": "https://d1.awsstatic.com/gamedev/Programs/OnRamp/gt-well-architected.4234ac16be6435d0ddd4ca693ea08106bc33de9f.png",
-          "userName": "Meeting held on October 23, 2020",
-          "userColors": {
-            "primary": "#FF9900",
-            "secondary": "#000000"
-            }
-          }
-        },
-        {
-        "id": 4,
-        "stream": {
-          "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-          "health": "HEALTHY",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/d1d88fe5-c8c8-4d73-8e6c-5231218deeaa/mp4/aws-meet-datalab-28102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-          "startTime": "2020-10-28T12:01:01Z",
-          "state": "LIVE",
-          "viewerCount": 1
-        },
-        "metadata": {
-          "streamTitle": "AWs Data Lab",
-          "userAvatar": "https://d1.awsstatic.com/aws-data-lab/Production.90dcf107f061038fe3b2049aedacce53a6fc02f7.jpg",
-          "userName": "Meeting held on October 28, 2020",
-          "userColors": {
-            "primary": "#FF9900",
-            "secondary": "#000000"
-            }
-          }
-        },
-        {
-        "id": 4,
-        "stream": {
-          "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-          "health": "HEALTHY",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/d1d88fe5-c8c8-4d73-8e6c-5231218deeaa/mp4/aws-meet-datalab-28102020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-          "startTime": "2020-10-28T12:01:01Z",
-          "state": "LIVE",
-          "viewerCount": 1
-        },
-        "metadata": {
-          "streamTitle": "AWS Data Lab",
-          "userAvatar": "https://d1.awsstatic.com/aws-data-lab/Production.90dcf107f061038fe3b2049aedacce53a6fc02f7.jpg",
-          "userName": "Meeting held on October 28, 2020",
-          "userColors": {
-            "primary": "#FF9900",
-            "secondary": "#000000"
-            }
-          }
-        },
-        {
-        "id": 5,
-        "stream": {
-          "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-          "health": "HEALTHY",
-          "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/140b2795-a52f-4b25-b75e-24961846383b/mp4/aws-id-analytics-03112020_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_6Mbps_qvbr.mp4",
-          "startTime": "2020-11-03T12:01:01Z",
-          "state": "LIVE",
-          "viewerCount": 1
-        },
-        "metadata": {
-          "streamTitle": "AWS ID Data Analytics",
-          "userAvatar": "https://d1.awsstatic.com/Data%20Lakes%20Storage%20Infrastructure/Data-Lake-Storage-Infrastructure.aa068b26fd43e26640fd3d700bc3061a8748fdaa.png",
-          "userName": "Meeting held on November 03, 2020",
-          "userColors": {
-            "primary": "#FF9900",
-            "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "id": 6,
-          "stream": {
-            "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
-            "health": "HEALTHY",
-            "playbackUrl": "https://d1q6tudq1tepeh.cloudfront.net/fff86f20-3e54-4414-b9a5-f80b6e81779a/mp4/aws-id-sagemaker-05112020_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps_qvbr.mp4",
-            "startTime": "2020-11-05T12:01:01Z",
-            "state": "LIVE",
-            "viewerCount": 1
-          },
-          "metadata": {
-            "streamTitle": "AWs ID Sagemaker",
-            "userAvatar": "https://miro.medium.com/max/300/1*jbYRQa6__lU3EAzdkA_fJw.png",
-            "userName": "Meeting held on November 05, 2020",
-            "userColors": {
-              "primary": "#FF9900",
-              "secondary": "#000000"
-              }
-            }
-          }
+      }
     ]
   }
